@@ -66,7 +66,7 @@
 <br/>
 <br/>
 
-[website]: https://epair91.herokuapp.com/
+[website]: https://pratyay.herokuapp.com/
 [twitter]: https://twitter.com/realPratyay
 [youtube]: https://youtube.com/technicalmitra360
 [instagram]: https://instagram.com/pratyay_mitra360
