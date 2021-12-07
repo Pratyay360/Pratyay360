@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-[website]: https://pratyay.herokuapp.com/
+[website]: https://pratyay-profile.herokuapp.com/
 [twitter]: https://twitter.com/realPratyay
 [instagram]: https://instagram.com/pratyay_mitra360
 [linkedin]: https://linkedin.com/in/pratyay360
