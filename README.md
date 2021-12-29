@@ -43,29 +43,15 @@
 <br/>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Pratyay360&show_icons=true&locale=en" alt="Pratyay360" /></p>
 
-<br/>
----
 
 # Connect with me:
 
+<div>
+  <a href="https://www.facebook.com/profile.php?id=100070987314075" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/pratyay_mitra360" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/realPratyay" target="_blank"><img src="https://img.shields.io/badge/<realPratyay>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:pratyaymustafi@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://linkedin.com/in/pratyay360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-
----
-
-
-
-
-<br/>
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
-
-[website]: https://pratyay-profile.herokuapp.com/
-[twitter]: https://twitter.com/realPratyay
-[instagram]: https://instagram.com/pratyay_mitra360
-[linkedin]: https://linkedin.com/in/pratyay360
+![Snake animation](https://github.com/Pratyay360/Pratyay360/blob/output/github-contribution-grid-snake.svg)
+</div>
