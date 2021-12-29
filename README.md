@@ -1,4 +1,6 @@
 # Hi there, I'm The Pratyay Mustafi - 👋👋👋👋👋👋
+<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
+
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/realPratyay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrealPratyay&screen_name=realPratyay)
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pratyay360)
@@ -15,7 +17,6 @@
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I love to read books.
 - 📫 How to reach me: Mail me to pratyaymustafi@gmail.com
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
