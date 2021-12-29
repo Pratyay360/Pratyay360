@@ -8,13 +8,14 @@
 <p align="center"> <a href="https://github.com/Pratyay360"><img src="https://github-profile-trophy.vercel.app/?username=Pratyay360" alt="Pratyay360" /></a> </p>
 
 # Here Is My Current Status
-<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
+
 - 🔭 Thinking About Innovation.
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ I love to read books.
 - 📫 How to reach me: Mail me to pratyaymustafi@gmail.com
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
