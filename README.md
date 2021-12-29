@@ -4,7 +4,11 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Pratyay360)
 
 ## I'm a Student, Developer, Learner, and Entrepreneur!!
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Pratyay360" alt="Pratyay360" /></a> </p>
+<div align="center">
+  <a href="https://github.com/Pratyay360">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pratyay360&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratyay360&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 # Here Is My Current Status
 
