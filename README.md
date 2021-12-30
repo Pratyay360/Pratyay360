@@ -3,7 +3,8 @@
 
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/realPratyay?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FrealPratyay&screen_name=realPratyay)
-![Profile View Counter](https://komarev.com/ghpvc/?username=Pratyay360)
+<div><img src="https://komarev.com/ghpvc/?username=Pratyay360"></div><br>
+
 
 ## I'm a Student, Developer, Learner, and Entrepreneur!!
 
