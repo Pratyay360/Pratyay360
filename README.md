@@ -1,4 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pratyay Mustafi 👋👋👋👋</h1>
+<p align="center">
+<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
+</p>
 
 #
 <h3 align="center">A passionate student from India</h3>
