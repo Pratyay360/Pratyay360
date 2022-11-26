@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyay Mustafi 👋👋👋👋</h1>
 <p align="center">
-<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://pratyay-profile.herokuapp.com/my_image.jpeg">
+<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://pratyay-profile.000webhostapp.com/my_image.jpeg">
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=flat" alt="pratyay360" /> </p>
