@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Pratyay Mustafi 👋👋👋👋</h1>
 <p align="center">
-<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://pratyay-profile.000webhostapp.com/my_image.jpeg">
+<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61408566">
 </p>
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=flat" alt="pratyay360" /> </p>
@@ -11,11 +11,11 @@
 <br>
 <p align="left"> <a href="https://twitter.com/realpratyay" target="blank"><img src="https://img.shields.io/twitter/follow/realpratyay?logo=twitter&style=for-the-badge" alt="realpratyay" /></a> </p>
 <br>
-- 🔭 I’m currently working on [Yet Another Privacy Enhancer](https://github.com/Yet-Another-Privacy-Enhancer)
+- 🔭 I’m currently working on NOTHING
 
 - 🌱 I’m currently learning **Flutter**
 
-- 👯 I’m looking to collaborate on [Yet Another Privacy Enhancer](https://github.com/Yet-Another-Privacy-Enhancer)
+- 👯 I’m looking to collaborate on 
 
 - 🤝 I’m looking for help with **Any Project**
 
