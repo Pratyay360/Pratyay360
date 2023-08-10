@@ -54,8 +54,12 @@
 </div>
 
 ### Donate me 
-<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR" id="__UPI_BUTTON__" target="_blank"><img src="./donate1.png" width="200"  target="_blank"></a> 
 
+<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR" id="__UPI_BUTTON__" ><img src="./donate1.png" width="200"  target="_blank"></a> 
+
+
+<br/>
+<br/>
 ###
 
 <img src="https://raw.githubusercontent.com/Pratyay360/Pratyay360/output/snake.svg" alt="Snake animation" />
