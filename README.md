@@ -55,7 +55,7 @@
 
 ### Donate me 
 
-<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR" id="__UPI_BUTTON__"><img src="./donate1.png" target="_blank" width="200"></a>
+<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR"><img src="./donate1.png" target="_blank" width="200"></a>
 
 
 
