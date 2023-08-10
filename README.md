@@ -52,9 +52,10 @@
   <a href="https://linkedin.com/in/pratyay360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 </div>
+
 ### Donate me 
 
-<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR" id="__UPI_BUTTON__" style="background: #ff912f;border: 2px solid #8a4100;padding: 10px;text-decoration: none;color: white;font-size: larger;border-radius: 10px;">Donate Using Upi </a>
+<a href="upi://pay?pa=pratyaymustafi@paytm&pn=PRATYAY MUSTAFI&cu=INR" id="__UPI_BUTTON__"><img src="./donate1.png" target="_blank"></a>
 
 
 
