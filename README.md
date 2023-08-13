@@ -1,10 +1,11 @@
-# 💫 About Me:
-## Hi 👋, I'm Pratyay Mustafi 👋👋👋👋
+<h1 align="center"> 💫 About Me </h1> 
+
+<h2 align="center" > Hi 👋, I'm Pratyay Mustafi 👋👋👋👋 </h2>
 <p align="center">
 <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61408566">
 </p>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=round" alt="pratyay360" /> </p>
+
 
 <h3 align="center">A passionate student from India</h3>
 
@@ -12,13 +13,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyay360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on NOTHING
+- 🔭 I’m currently working on **Qvault**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Nodejs**
 
-- 👯 I’m looking to collaborate on 
-
-- 🤝 I’m looking for help with **Any Project**
+- 👯 I’m looking to collaborate on **Qvault**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratyay360?tab=repositories](https://github.com/Pratyay360?tab=repositories)
 
@@ -37,14 +36,15 @@
 
 
 
-### ✍️ Random Dev Quote
+<h2 align="center">  ✍️ Random Dev Quote </h2>
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 
-### Connect with me:
+<h1 align="center">  Connect with me </h1> 
 
-<div>
+<div align="center">
   <a href="https://www.facebook.com/profile.php?id=100070987314075" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
 
   <a href="https://www.instagram.com/realpratyay/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -55,14 +55,26 @@
 </div>
 
 
-# Donate Me
-<div>
+<div align="center">
+<h1 align="center">  Donate Me </h1>
 <a href="https://pratyayupi.vercel.app" target="_blank"><img src="./upi.svg" width="200" target="_blank"></a>
 <a href="https://paypal.me/pmustafi/" target="_blank"><img src="./paypal.svg" width="200" target="_blank"></a>
 </div>
 
-###
 
+
+
+<div align="center">
+ <h1 align="center"> Thanks For Reading </h1>
+ <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=round" alt="pratyay360" /> </p>
+
+</div>
+
+###
+<div align="center">
 <img src="https://raw.githubusercontent.com/Pratyay360/Pratyay360/output/snake.svg" alt="Snake animation" />
+</div>
 
 ###
