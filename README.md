@@ -1,6 +1,6 @@
 <h1 align="center"> 💫 About Me </h1> 
 
-<h2 align="center" > Hi 👋, I'm Pratyay Mustafi 👋👋👋👋 </h2>
+<h2 align="center" style="font-size: 200%;"> Hi 👋, I'm Pratyay Mustafi 👋👋👋👋 </h2>
 <p align="center">
 <img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61408566">
 </p>
