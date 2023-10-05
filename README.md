@@ -74,10 +74,3 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=round" alt="pratyay360" /> </p>
 
 </div>
-
-###
-<div align="center">
-<img src="https://raw.githubusercontent.com/Pratyay360/Pratyay360/output/snake.svg" alt="Snake animation" />
-</div>
-
-###
