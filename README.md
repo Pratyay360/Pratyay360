@@ -36,13 +36,25 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyay360&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-###
+#
+
+#
+
+# 🔝 Top Contributed Repo
+
+<div align="center">
+    <img src="https://github-contributor-stats.vercel.app/api?username=Pratyay360&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="250" alt="top contributions" />
+</div>
+
 
 ###
-<h2 align="center">  ✍️ Random Dev Quote </h2>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+###
 
+# ✍️ Random Dev Quote
+<div align="center">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="randdom quote" />
+</div>
 
 
 
