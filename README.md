@@ -21,7 +21,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratyay360?tab=repositories](https://github.com/Pratyay360?tab=repositories)
 
-- 📫 How to reach me **pratyaymustafi@gmail.com**
+- 📫 How to reach me **pratyaymustafi@outlook.com**
 
 - ⚡ Fun fact **Nothing Funny**
 
