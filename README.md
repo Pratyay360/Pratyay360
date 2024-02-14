@@ -72,7 +72,7 @@
 
 <div align="center">
 <h1> Want To Support My Work </h1>
-<a href="https://pratyayupi.vercel.app/?upiid=pratyaymustafi@paytm&name=Pratyay%20Mustafi" target="_blank"><img src="./upi.svg" width="200" target="_blank"></a>
+<a href="https://pratyayupi.pages.dev/" target="_blank"><img src="./upi.svg" width="200" target="_blank"></a>
 <a href="https://paypal.me/pmustafi/" target="_blank"><img src="./paypal.svg" width="200" target="_blank"></a>
 </div>
 
