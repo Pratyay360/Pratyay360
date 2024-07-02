@@ -13,17 +13,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Pratyay360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-- 🔭 I’m currently working on **Qvault**
-
-- 🌱 I’m currently learning **Nodejs**
-
-- 👯 I’m looking to collaborate on **Qvault**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Pratyay360?tab=repositories](https://github.com/Pratyay360?tab=repositories)
 
 - 📫 How to reach me **pratyaymustafi@outlook.com**
-
-- ⚡ Fun fact **Nothing Funny**
 
 
 <h3 align="left">Languages and Tools :</h3>
