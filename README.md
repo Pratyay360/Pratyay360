@@ -1,21 +1,3 @@
-<h1 align="center"> 💫 About Me </h1> 
-
-<h2 align="center" style="font-size: 200%;"> Hi 👋, I'm Pratyay Mustafi 👋👋👋👋 </h2>
-<p align="center">
-<img align="center" alt="Rafa-pic" height="200" style="border-radius:50px;" src="https://avatars.githubusercontent.com/u/61408566">
-</p>
-<br>
-
-
-<h3 align="center">A passionate student from India</h3>
-
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Pratyay360&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-
-- 👨‍💻 All of my projects are available at [https://github.com/Pratyay360?tab=repositories](https://github.com/Pratyay360?tab=repositories)
-
 - 📫 How to reach me **pratyaymustafi@outlook.com**
 
 
