@@ -1,59 +1,21 @@
 - 📫 How to reach me **pratyaymustafi@outlook.com**
+- gpg public key (for those who wants to send encrypted mail)
 
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratyay360&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=Pratyay360&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pratyay360&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
-#
+xjMEaeVNexYJKwYBBAHaRw8BAQdADCa0hZ9RscmNyxt+UWXNQAHqpzzL+Lp4sCDu
+Uhn/NfnNLFByYXR5YXkgTXVzdGFmaSA8cHJhdHlheW11c3RhZmlAb3V0bG9vay5j
+b20+wokEExYIADEWIQQvK6q9VhILHT9wo3Sff6qKrjm3IgUCaeVNewIbAwQLCQgH
+BRUICQoLBRYCAwEAAAoJEJ9/qoquObci37sA/0eP9VxxzWQJJrYVC/n5IR10xBE1
+R2VPeTtbG5x3i0nJAP9QXoPrqPDfRjhXCaVCcA9pTEDKSDox0+Gb9M0mAjqvC844
+BGnlTXwSCisGAQQBl1UBBQEBB0DP8P5txrNBh7/WupFhUz1jlKLUFXgF7Wu1t1On
+b2/SSgMBCAfCeAQYFggAIBYhBC8rqr1WEgsdP3CjdJ9/qoquObciBQJp5U18AhsM
+AAoJEJ9/qoquObci9EoBAOVa8UZNuWVD7XIzLYXKA/oqyr9DcjAkVNcCngVA8gBZ
+AQCoquH7b54tpWi/PYIVRyaOX+GW1hWk2kY7DaUGEsIKDw==
+=kT26
+-----END PGP PUBLIC KEY BLOCK-----
 
-#
-
-# 🔝 Top Contributed Repo
-
-<div align="center">
-    <img src="https://github-contributor-stats.vercel.app/api?username=Pratyay360&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" height="250" alt="top contributions" />
-</div>
-
-
-###
-
-###
-
-# ✍️ Random Dev Quote
-<div align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="150" alt="randdom quote" />
-</div>
-
-
-
-<div align="center">
-<h1 align="center">  Connect with me </h1> 
-  <a href="https://www.facebook.com/profile.php?id=100070987314075" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white" target="_blank"></a>
-
-  <a href="https://www.instagram.com/realpratyay/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://twitter.com/realpratyay" target="blank"><img src="https://img.shields.io/badge/-Twitter-%231877F2?style=for-the-badge&logo=Twitter&logoColor=white" alt="realpratyay" /></a>
-  <a href = "mailto:pratyaymustafi@outlook.com"><img src="https://img.shields.io/badge/-Mail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/pratyay360" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-</div>
-
-
-<div align="center">
-<h1> Want To Support My Work </h1>
-<a href="https://pratyayupi.pages.dev/" target="_blank"><img src="./upi.svg" width="200" target="_blank"></a>
-<a href="https://paypal.me/pmustafi/" target="_blank"><img src="./paypal.svg" width="200" target="_blank"></a>
-</div>
-
-
-
-
-<div align="center">
- <h1 align="center"> Thanks For Reading </h1>
- <img src="https://typograssy.deno.dev/api?text=Thank%20you%20for%20visiting%20my%20profile!&l0=none&l1=ef858c&l2=62b7d8&l3=ffb6c1&l4=caf9ff&bg=none&frame=none&speed=250&comment=">
+```
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pratyay360&label=Profile%20views&color=0e75b6&style=round" alt="pratyay360" /> </p>
-
-</div>
